@@ -7,8 +7,6 @@ Location: docs/project-management/service-boundaries.md
 
 # Service Boundaries
 
-Avoid the "everything knows everything" mess.
-
 ---
 
 ## Core Services

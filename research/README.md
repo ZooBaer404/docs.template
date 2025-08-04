@@ -14,8 +14,8 @@ This directory houses comparative studies, performance analyses, and architectur
 
 | Folder / File                                | Description                                                                 |
 |----------------------------------------------|-----------------------------------------------------------------------------|
-| [databases/](databases/)                      | Evaluations of SQL vs NoSQL systems, schema design approaches, etc.         |
 | [performance/](performance/)                 | Load tests, memory benchmarks, profiling data, etc.                         |
+| [databases/](databases/)                     | Evaluations of SQL vs NoSQL systems, schema design approaches, etc.         |
 | [tools-evaluation/](tools-evaluation/)       | Reviews and comparisons of tools like IDEs, CI/CD platforms, test runners.  |
 | [design-alternatives/](design-alternatives/) | Explorations of different architectures, layering strategies, and patterns. |
 | [`findings.md`](findings.md)                 | Final insights, distilled lessons, and research conclusions.                |

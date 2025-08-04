@@ -8,6 +8,7 @@ Location: docs/api/authentication.md
 # API Authentication Guide
 
 ## Overview
+
 This document outlines how clients authenticate with the API.
 
 ## Methods Supported

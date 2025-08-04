@@ -7,10 +7,6 @@ Location: docs/project-management/risk-register.md
 
 # Risk Register
 
-A continuously updated log of all project risks — categorized, scored, and tracked for accountability.
-
-
-
 ---
 
 ## Archived / Closed Risks

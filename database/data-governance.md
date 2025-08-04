@@ -8,6 +8,7 @@ Location: docs/database/data-governance.md
 # Data Governance Policy
 
 ## Purpose
+
 To ensure all data stored and processed by this system remains accurate, secure, traceable, and compliant with privacy laws (e.g., GDPR, local regulations).
 
 ---

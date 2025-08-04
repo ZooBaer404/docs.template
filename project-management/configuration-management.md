@@ -14,15 +14,6 @@ Because “it worked on my machine” is *not* a recovery strategy.
 
 ---
 
-## Objectives
-
-- Maintain integrity and traceability of configuration items (CIs)
-- Prevent unauthorized changes
-- Enable rollback and change audits
-- Support stable build and deployment processes
-
----
-
 ## Configuration Items (CIs)
 
 | CI Type         | Description                      | Tool/Storage Location          |

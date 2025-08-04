@@ -7,8 +7,6 @@ Location: docs/research/findings.md
 
 # Research Findings Summary
 
-This document highlights key takeaways from various investigations stored under `docs/research/`. It serves as a TL;DR for stakeholders, team leads, or your future self when you’ve forgotten why a decision was made.
-
 ---
 
 ## Summary Table

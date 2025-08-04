@@ -7,17 +7,6 @@ Location: docs/project-management/quality-management.md
 
 # Quality Management Plan
 
-This document ensures the **product** meets the defined **quality standards**, and that **processes** are consistently improved to reduce defects and increase reliability.
-
----
-
-## Objectives
-
-- Define clear quality goals and acceptance criteria
-- Standardize review and testing practices
-- Promote defect prevention over defect detection
-- Ensure traceability from requirements to tests
-
 ---
 
 ## Quality Metrics

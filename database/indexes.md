@@ -8,6 +8,7 @@ Location: docs/database/indexes.md
 # Indexing Strategy
 
 ## Purpose
+
 Indexes improve query performance, especially on large tables. This document records all current indexing decisions and their justifications.
 
 ---

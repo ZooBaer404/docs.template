@@ -8,17 +8,6 @@ Location: docs/project-management/monitoring-control.md
 
 # Monitoring & Control Strategy
 
-Defines how the project progress will be **observed**, **measured**, and **course-corrected** when needed.
-
----
-
-## Objectives
-
-- Detect deviations from the plan early.
-- Provide data for decision-making.
-- Ensure accountability.
-- Enable risk-based intervention.
-
 ---
 
 ## Key Performance Indicators (KPIs)

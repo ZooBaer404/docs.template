@@ -7,8 +7,6 @@ Location: docs/project-management/feasibility-study.md
 
 # Feasibility Study
 
-This document investigates whether the proposed project/feature is worth doing.
-
 ---
 
 ## Project Overview

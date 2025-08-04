@@ -7,6 +7,8 @@ Location: docs/project-management/roles-and-assignees.md
 
 # Roles and Assignees
 
+---
+
 ## Project Leadership
 
 | Role            | Description                                              | Assignee     | Backup    | Reports To |

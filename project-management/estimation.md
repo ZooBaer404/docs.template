@@ -9,11 +9,6 @@ Location: docs/project-management/estimation.md
 
 # Project Estimation
 
-## Overview
-
-This file describes how the team estimates effort, cost, and time for features and milestones.
-It includes techniques used, assumptions made, and records of past estimations.
-
 ---
 
 ## Time Breakdown Table

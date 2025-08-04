@@ -7,7 +7,6 @@ Location: docs/design-assets/README.md
 
 # Design Assets README
 
-
 Central hub for all design-related resources, including mockups, UI kits, branding, and diagrams used throughout the project's lifecycle.
 
 ---

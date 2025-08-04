@@ -7,10 +7,6 @@ Location: docs/project-management/buffer.md
 
 # Buffer Management
 
----
-
-## Purpose
-
 Describe how time, cost, or resource buffers are defined and applied to absorb project uncertainties.
 
 ---

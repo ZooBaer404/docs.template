@@ -7,17 +7,6 @@ Location: docs/project-management/resource-management.md
 
 # Resource Management Plan
 
-This file documents how **people**, **tools**, and **time** will be allocated effectively — ensuring no one is overworked, underused, or somehow debugging in a production server at 2am.
-
----
-
-## Objectives
-
-- Identify and assign key resources for each major task
-- Ensure fair distribution of workload
-- Avoid resource contention and burnout
-- Track and optimize utilization over time
-
 ---
 
 ## Human Resource Allocation

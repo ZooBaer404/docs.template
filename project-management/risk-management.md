@@ -7,8 +7,6 @@ Location: docs/project-management/risk-management.md
 
 # Risk Management Strategy
 
-Defines how project threats will be identified, analyzed, mitigated, and monitored.
-
 ---
 
 ## Risk Identification

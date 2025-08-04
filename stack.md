@@ -46,6 +46,13 @@ Location: docs/stack.md
 | Prometheus | Metrics collection |       |
 | Grafana    | Visualization      |       |
 
+## Logging & Analysis
+
+| Tech                                | Purpose                  | Notes |
+|-------------------------------------|--------------------------|-------|
+| ELK Stack (Elastic/Logstash/Kibana) | Centralized log analysis |       |
+
+
 ## Security & Auth
 
 | Tech   | Purpose                    | Notes                     |

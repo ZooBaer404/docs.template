@@ -11,6 +11,7 @@ Location: docs/database/README.md
 # Database Documentation
 
 ## Overview
+
 This module documents the structure, design decisions, and key components of the database used by the system. It includes schema diagrams, table descriptions, relationships, and performance considerations.
 
 ---
