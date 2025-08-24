@@ -22,13 +22,6 @@ These tools are **not third-party** libraries but are either:
 
 ## Contents
 
-| File               | Description                                       | Last Updated (2025) | Update Frequency                |
-|--------------------|---------------------------------------------------|---------------------|---------------------------------|
-| `env-validator.md` | Validates the environment and required variables. | ToDo                | Frequently, if env specs change |
-| `cli-helper.md`    | Internal CLI tool for simplifying workflows.      | ToDo                | Occasionally                    |
-| `git-hooks.md`     | Project-specific Git hooks documentation.         | ToDo                | Occasionally                    |
-| `data-analyzer.md` | In-house data analyzer for custom logs.           | ToDo                | As needed                       |
-
 1. [ ] **Environment Validator** ([env-validator.md](env-validator.md))
    _Description:_ Validates the environment and required variables.
    _Last Updated:_ ToDo

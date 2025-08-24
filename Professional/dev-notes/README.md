@@ -47,7 +47,7 @@ Here you'll find a collection of practical knowledge, coding tips, architectural
 7. [ ] **Anti-Patterns** ([anti-patterns.md](anti-patterns.md))
    _Description:_ Warning about dangerous and discouraged patterns in the codebase.
    _Last Updated:_ <2025-06-10 Tue>
-   _Update Frequency:_ Occasionally (when new discouraged patterns are discovered in the codebase
+   _Update Frequency:_ Occasionally (when new discouraged patterns are discovered in the codebase)
 
 8. [ ] **Data Flow** ([data-flow.md](data-flow.md))
    _Description:_ Illustration of where the data comes from, what happens to it, and where it goes.
