@@ -2,7 +2,7 @@
 START OF: security-review.md
 Purpose: Provides a quick overview of the security of the app.
 Update Frequency: Each time a security-related update takes place in the project.
-Location: docs/security-review.md
+Location: docs/security/security-review.md
 -->
 
 # Security Review

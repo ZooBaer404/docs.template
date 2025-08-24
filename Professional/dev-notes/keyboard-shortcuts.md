@@ -2,7 +2,7 @@
 START OF: keyboard-shortcuts.md
 Purpose: Document useful or custom keyboard shortcuts.
 Update Frequency: Each time a new keyboard shortcut is added for the project.
-Location: docs/keyboard-shortcuts.md
+Location: docs/dev-notes/keyboard-shortcuts.md
 -->
 
 # Keyboard Shortcuts

@@ -59,6 +59,21 @@ Here you'll find a collection of practical knowledge, coding tips, architectural
    _Last Updated:_ <2025-06-10 Tue>
    _Update Frequency:_ Occasionally (when stats show a piece of computation needs to be cached)
 
+10. [ ] **Debugging** ([debugging.md](debugging.md))
+   _Description:_ Help devs identify and fix recurring or sneaky bugs.
+   _Last Updated:_ <2025-08-24 Sun>
+   _Update Frequency:_ Each time a new debugging strategy or tips is discovered.
+    
+11. [ ] **Keyboard Shortcuts** ([keyboard-shortcuts.md](keyboard-shortcuts.md))
+   _Description:_ Document useful or custom keyboard shortcuts.
+   _Last Update:_ <2025-08-24 Sun>
+   _Update Frequency:_ Each time a new keyboard shortcut is added for the project.
+
+12. [ ] **Glosary** ([glossary.md](glossary.md))
+   _Description:_ Define key terms and acronyms used in the project to ensure clarity for all contributors.
+   _Last Update:_ <2025-08-24 Sun>
+   _Update Frequency:_ When new terms are introduced or existing definitions need clarification.
+
 ---
 
 ## How to Use

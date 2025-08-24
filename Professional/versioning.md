@@ -7,7 +7,7 @@ Location: docs/versioning.md
 
 # Documentation Versioning
 
-## Current Version: `v0.5`
+## Current Version: `v0.7`
 
 ## Version History
 

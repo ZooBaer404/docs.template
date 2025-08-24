@@ -2,7 +2,7 @@
 START OF: threat-model.md
 Purpose: Provide a model for thread analysis.
 Update Frequency: Each time a new threat model is found.
-Location: docs/threat-model
+Location: docs/security/threat-model
 -->
 
 # Threat Model

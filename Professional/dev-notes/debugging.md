@@ -2,7 +2,7 @@
 START OF: debugging.md
 Purpose: Help devs identify and fix recurring or sneaky bugs.
 Update Frequency: Each time a new debugging strategy or tips is discovered.
-Location: docs/debugging.md
+Location: docs/dev-notes/debugging.md
 -->
 
 # Debugging Guide
@@ -15,15 +15,6 @@ Location: docs/debugging.md
   - Backend restarts while frontend still running.
 - Fix:
   - Hard refresh (`Ctrl+Shift+R`) to fetch new token.
-
----
-
-### WebSocket disconnects after ~30s
-
-- Likely Cause:
-  - Server’s idle timeout not extended.
-- Fix:
-  - Set `pingInterval` in frontend and backend.
 
 ---
 

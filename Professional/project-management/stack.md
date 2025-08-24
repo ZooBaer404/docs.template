@@ -2,7 +2,7 @@
 START OF: stack.md
 Purpose: Outlines the technology stack that will be used when building the project.
 Update Frequency: Whenever a new technology is integrated into the project.
-Location: docs/stack.md
+Location: docs/project-management/stack.md
 -->
 
 # Project Tech Stack
@@ -64,6 +64,6 @@ Location: docs/stack.md
 
 - Markdown for documentation
 - GitHub Projects for task management
-- VSCode recommended setup (see `dev-notes/tools-setup.md`)
+- VSCode recommended setup (see `../dev-notes/tools-setup.md`)
 
 <!-- END OF stack.md -->
